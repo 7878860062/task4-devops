@@ -194,7 +194,8 @@ spec:
 ```
 Now go and configure cloud for your JOB2
 ![61](https://user-images.githubusercontent.com/64473684/85514618-db6cce00-b619-11ea-971b-5f90434c525d.PNG)
-![62](https://user-images.githubusercontent.com/64473684/85514630-de67be80-b619-11ea-8416-965ef7e6fd78.PNG)
+<img width="960" alt="t4" src="https://user-images.githubusercontent.com/48556545/85687877-e180ae80-b6ee-11ea-8d8f-590f6a7c4112.PNG">
+
 JOB2:
 ![63](https://user-images.githubusercontent.com/64473684/85514645-e162af00-b619-11ea-8c69-a25789323e3a.PNG)
 ![65](https://user-images.githubusercontent.com/64473684/85514654-e3c50900-b619-11ea-86ec-69d7e28e2991.PNG)
@@ -221,7 +222,8 @@ OUTPUTS:
 
 ![105](https://user-images.githubusercontent.com/64473684/85524398-c39b4700-b625-11ea-8cdb-b73d43d0d2a2.png)
 
-![201](https://user-images.githubusercontent.com/64473684/85524418-c7c76480-b625-11ea-967e-c6aedfc229a5.PNG)
+<img width="960" alt="t4" src="https://user-images.githubusercontent.com/48556545/85687877-e180ae80-b6ee-11ea-8d8f-590f6a7c4112.PNG">
+
 
 ![0 (6)](https://user-images.githubusercontent.com/64473684/85524518-e0377f00-b625-11ea-8105-c5ac07e6470d.png)
 
