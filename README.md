@@ -45,7 +45,8 @@ Before proceeding to do this step in your VM2:
 
 Open /usr/lib/systemd/system/docker.service file and add -H tcp://0.0.0.0:3456
 (This command will help you to access the docker service of this VM from another machine[this process is called socket binding]).
-![0](https://user-images.githubusercontent.com/64473684/85508003-dd7e5f00-b610-11ea-9ba5-c759a475d1b6.png)
+<img width="960" alt="t4" src="https://user-images.githubusercontent.com/48556545/85687877-e180ae80-b6ee-11ea-8d8f-590f6a7c4112.PNG">
+
 
 
 
