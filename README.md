@@ -220,7 +220,7 @@ OUTPUTS:
 ![104](https://user-images.githubusercontent.com/64473684/85525449-ba5eaa00-b626-11ea-8e17-feacc8f9bc89.png)
 
 
-![105](https://user-images.githubusercontent.com/64473684/85524398-c39b4700-b625-11ea-8cdb-b73d43d0d2a2.png)
+
 
 <img width="960" alt="t4" src="https://user-images.githubusercontent.com/48556545/85687877-e180ae80-b6ee-11ea-8d8f-590f6a7c4112.PNG">
 
