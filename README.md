@@ -193,7 +193,7 @@ spec:
         docker build -t kube:latest .
 ```
 Now go and configure cloud for your JOB2
-![61](https://user-images.githubusercontent.com/64473684/85514618-db6cce00-b619-11ea-971b-5f90434c525d.PNG)
+
 <img width="960" alt="t4" src="https://user-images.githubusercontent.com/48556545/85687877-e180ae80-b6ee-11ea-8d8f-590f6a7c4112.PNG">
 
 JOB2:
